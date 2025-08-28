@@ -4,3 +4,4 @@
 /backend/*
 !/backend/.gitkeep
 
+/backend/config/config.env
