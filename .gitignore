@@ -2,5 +2,4 @@
 !.gitignore
 !/backend/
 /backend/*
-
 /backend/config/config.env
